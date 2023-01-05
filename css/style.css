@@ -52,6 +52,7 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
+  
   background-color: #a696df;
   padding-left: 20px;
 }
